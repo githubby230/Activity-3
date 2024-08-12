@@ -1,0 +1,39 @@
+body{
+   background-color: rgb(60, 145, 145);
+}
+section{
+    background-color: rgb(45, 185, 185);
+}
+h2{
+
+}
+main h2{
+     color: white;
+     text-align: center;
+     margin-top: 100px;
+     font-family: Poppins, Arial;
+}
+main p{
+    color: white;
+    text-align: center;
+    font-family: Poppins, Arial;
+    text-align: justify;
+}
+
+ul{
+    color: rgb(204, 23, 23);
+   text-align: right;
+   margin-right: 70px;
+    padding: 20px;
+}
+
+span{
+    list-style: none;
+    
+}
+span a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
